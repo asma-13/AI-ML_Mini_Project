@@ -38,3 +38,44 @@ This project helped me better understand the importance of EDA as a foundational
 
 ## 📁 Files in This Repository
 
+
+
+
+
+---
+
+## 🧰 Tools & Libraries
+
+- Python 🐍
+- Pandas 🐼
+- Jupyter Notebook 📓
+
+---
+
+## 🎥 Demo Video
+
+📽️ **Watch the demo video: [Watch Video](https://www.linkedin.com/posts/iasmachanna_mini-project-showcase-activity-7317995255750971392-7RUl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD56ysIBNwBc6DkOssixKdnz5zGbK2r1WEo)
+
+---
+
+## 🔗 GitHub Link
+
+Access the full notebook here:  
+🌐 [GitHub Repository](https://github.com/your-username/physical-attributes-eda)
+
+---
+
+## 🙋‍♀️ About Me
+
+👋 I'm Asma Channa currently exploring the world of **AI & ML** and passionate about applying data science to real-world problems.  
+📩 Connect with me on [LinkedIn](www.linkedin.com/in/iasmachanna)  
+📬 Email: iasma.channa@gmaul.com
+
+---
+
+## ⭐ If You Like This Project
+
+Please give it a ⭐ and feel free to fork or share!
+
+---
+
